@@ -2,7 +2,9 @@
 
 ## Run
 
-Run as administrator `activate.sh`
+- Disable Windows Defender or any other antivirus.
+- Clone this repo.
+- Run as administrator `activate.sh`.
 
 ## Support
 
